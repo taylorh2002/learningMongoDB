@@ -1,0 +1,24 @@
+{
+  "name": "learningmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorh2002/learningMongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorh2002/learningMongoDB/issues"
+  },
+  "homepage": "https://github.com/taylorh2002/learningMongoDB#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.12.2",
+    "validator": "^13.5.2"
+  }
+}
